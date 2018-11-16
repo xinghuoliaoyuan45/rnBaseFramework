@@ -1,0 +1,10 @@
+filename: WorkModels.js
+namespace: work
+actions:
+- name: 获取登录人信息
+  type: api
+  functionName: getUserById
+  urlName: getUserById
+  urlPath: /api/v1/us/users/get
+
+
