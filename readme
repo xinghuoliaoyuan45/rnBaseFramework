@@ -27,11 +27,6 @@ js下面的路径：
 
  ]
 package.json:放第三方库引入版本，
-//    暂时不用
-//    "react-native-imui": "file:ThirdLibrary/react-native-imui",
-//    "react-native-netease-im": "file:ThirdLibrary/react-native-netease-im",
-
-
 
 第三方key
 
